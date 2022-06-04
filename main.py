@@ -17,3 +17,4 @@ if __name__ == '__main__':
     print(goods)
     goods2 = Goods('Two', 3666, 100)
     print(goods2)
+
